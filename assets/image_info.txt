@@ -1,0 +1,6 @@
+icon.png: 1024 / 1024
+splash.png: 1284 / 2778
+favicon.png: 48 / 48
+adaptive-icon.png: 1024 / 1024
+
+
